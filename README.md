@@ -41,6 +41,8 @@ Use an EEPROM flasher to flash the firmware before soldering.
 
 ![eeprom](Bitmap/EEPROM.png)
 
+**Unfortunately, I couldn't find a public version of the MS8003 code, but it's not expensive to buy a pre-programmed set**
+
 ## Links
 
 OSHWHub OpenSource (Chinese): [https://oshwhub.com/gloomyghost/yuzuki-lohcc](https://oshwhub.com/gloomyghost/yuzuki-lohcc-hdmi-huan-chu-cai-ji-ka)
