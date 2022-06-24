@@ -1,5 +1,8 @@
 # YuzukiLOHCC
-Yuzuki Loop Out HDMI Capture Card
+
+Yuzuki **L**oop **O**ut **H**DMI **C**apture **C**ard
+
+Ultra low cost HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card)
 
 ![main](Bitmap/LOHCC.jpg)
 
