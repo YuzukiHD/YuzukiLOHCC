@@ -43,7 +43,7 @@ Use an EEPROM flasher to flash the firmware before soldering.
 
 ## Links
 
-OSHWHub OpenSource (Chinese): https://oshwhub.com/gloomyghost/yuzuki-lohcc
+OSHWHub OpenSource (Chinese): [https://oshwhub.com/gloomyghost/yuzuki-lohcc](https://oshwhub.com/gloomyghost/yuzuki-lohcc-hdmi-huan-chu-cai-ji-ka)
 
 
 
